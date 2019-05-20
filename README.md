@@ -1,1 +1,0 @@
-# tsankhalpara.github.io
