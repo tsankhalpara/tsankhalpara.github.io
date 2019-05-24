@@ -1,13 +1,27 @@
 body {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h1 {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+img {
+  height: 100px;
+  width: auto;
+  border-radius: 50%;
+  border: 5px solid;
 }
 
 ul {
   padding-right: 40px;
 }
 
-ul li{
+#menu {
   display: inline;
   padding-left: 10px;
   padding-right: 10px;
